@@ -39,6 +39,24 @@ This is part of Alexander Kallways's [100daysofCode](https://github.com/Kallaway
 
 ---
 
+## Pre-Launch - Udemy Course and notify wife of challenge
+### Day 0: July 13, 2019 - Saturday
+
+**Today's Projects**
+-Enroll in Udemy Beginner Full Stack Web Development to enrich learning with Free Code Camp
+
+**Progress**
+
+- Enrolled in Beginner Full Stack Web Development: HTML, CSS, React & Node [The Udemy Course](https://www.udemy.com/ultimate-web/ "Beginner Full Stack Web Development Course")
+- Notified wife of the challenge. She is for the challenge!!
+
+**Link to Work**
+- None
+
+**Thoughts**
+I believe the udemy course will bring extra insight to the web development as I add development into my sysadmin life. Since, I have my family onboard with the challenge, I believe I will have a better time finishing it. I will start today or tomorrow! I have a three year old so it will be difficult to add the time in my day but here is to improving my knowledge and family. Cheers!
+
+
 ## Pre-Launch - Github, Twitter & Free Code Camp
 ### Day 0: July 12, 2019 - Friday
 
