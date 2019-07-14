@@ -44,8 +44,20 @@ This is part of Alexander Kallways's [100daysofCode](https://github.com/Kallaway
 
 **Today's Project**
 - Finish first chaper of Udemy Course: Beginner Full Stack Web Development
-- Complete
+- Complete Basic HTML and HTML 5 Section under Responsive Web Design Certification on Free Code Camp
+- Tweet 100 Days of Code Challenge on Twitter and post Github repository.
 
+**Progress**
+- Created first website using tutorials from Beginner Full Staff Web Development
+- Learned how to reference GitHub files into markdown using Mastering Markdown.md in Github repository.
+**Link to Work**
+-[Reference to Website.HTML](https://github.com/hoybyte/100-Days-of-X-Logs/blob/master/100%20Days%20of%20Code/Projects/Website.html)
+-[Mastering Markdown Reference](https://github.com/hoybyte/100-Days-of-X-Logs/blob/master/100%20Days%20of%20Code/Usefull%20Information/Mastering%20Markdown.md)
+
+**Thoughts**
+I learned how to properly use the basic HTML Tags into code. I learned that you should use the DoctType tag to explain what version of HTML you use. The HTML tag helps identify that you are using html as well. I learn that you insert your css entries into the header tag. Also, you can use the title tag to show the information on a browsers tab. For example, my title tag will show "Hoybyte 100 Days of Code" in my Google Chrome browser tab.  I learned that the larger the h1, h2, h3 tag is the smaller the font. h1 will create the largest heading. You use the p tag to specify a paragraph. You can use the <b>Bold</b> tag to create bold wordage or use the <em>emphasis</em> tag to create emphasis for your web page. 
+
+I really like the markdown language in which I can collect my thoughts and use it to properly show my learning. I cannot wait to continue to my training tomorrow.
 
 ## Pre-Launch - Udemy Course and notify wife of challenge
 ### Day 0: July 13, 2019 - Saturday
