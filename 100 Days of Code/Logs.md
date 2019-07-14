@@ -50,6 +50,8 @@ This is part of Alexander Kallways's [100daysofCode](https://github.com/Kallaway
 **Progress**
 - Created first website using tutorials from Beginner Full Staff Web Development
 - Learned how to reference GitHub files into markdown using Mastering Markdown.md in Github repository.
+
+
 **Link to Work**
 -[Reference to Website.HTML](https://github.com/hoybyte/100-Days-of-X-Logs/blob/master/100%20Days%20of%20Code/Projects/Website.html)
 -[Mastering Markdown Reference](https://github.com/hoybyte/100-Days-of-X-Logs/blob/master/100%20Days%20of%20Code/Usefull%20Information/Mastering%20Markdown.md)
