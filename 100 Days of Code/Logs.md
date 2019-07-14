@@ -39,6 +39,14 @@ This is part of Alexander Kallways's [100daysofCode](https://github.com/Kallaway
 
 ---
 
+#1. Beginner Full Stack Web Development
+## July 13, 2019 - Saturday
+
+**Today's Project**
+- Finish first chaper of Udemy Course: Beginner Full Stack Web Development
+- Complete
+
+
 ## Pre-Launch - Udemy Course and notify wife of challenge
 ### Day 0: July 13, 2019 - Saturday
 
