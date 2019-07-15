@@ -38,6 +38,31 @@ This is part of Alexander Kallways's [100daysofCode](https://github.com/Kallaway
 -->
 
 ---
+#3. Beginner Full Stack Web Development
+## July 15, 2019 - Monday
+
+**Today's Project**
+- Complete Introduction to CSS Video Series
+- Start designing website using the HTML and CSS knowledge that I have gained.
+  
+**Progress**
+- Completed three videos of CSS training
+- Started to code website and add CSS into the website "Work in Progress""
+  
+
+**Links to Work**
+- Blog Website on my GitHub repository [Blog Website](https://github.com/hoybyte/100-Days-of-X-Logs/blob/master/100%20Days%20of%20Code/Projects/Blog&Website)
+
+**Thoughts**
+I know I have a long way to go on the website. It is a major work in progress. 
+
+I Learned how to implement css into a css file and use the different type of selectors: Classes, ID, and Tags. I learned the syntax of colors and how to change the radiance and shadows. I have not implemented the changes into my files. 
+
+I learned how to use Git when you use multiple machines to code. 
+
+I had to re-image my laptop as I had some corruption in my OS. Do not have a lot of time to code since I had to re-image. 
+
+
 #2. Beginner Full Stack Web Development
 ## July 14, 2019 - Sunday
 
@@ -56,27 +81,26 @@ This is part of Alexander Kallways's [100daysofCode](https://github.com/Kallaway
 **Thoughts**
 I am trying to balance the coding journey with personal requirements. I watched videos to gain an understanding on how to effectively use HTML to create outstanding static webpages. I learned how to implant images,links,unordered and ordered lists into html files. Additionally, I learned how to create tables in HTML code. The author stated that you would have CSS or another coding language to assist with tables and formatting. 
 
-
-Three ways to use CSS in HTML 
+Three ways to use CSS in HTML
 
 - Inline
   - You would add the css language in the web file in the body of the webpage.
   - For Example:
-    - <body>
-        - <h1 style="Color: Red;"> This is an example </h1>
-    - </body>
+    - body>
+    - <style="Color: Red;"> This is an example </h1
+    - /body>
 - Internal
   - You would add the css lanage in the header tag.
   - For Example:
-    - <head>
-        - <h1 style="Color: Red;">
-    - </head>
+    - head>
+    - style="Color: Red;">
+    - /head>
 - External
   - Best Way
   - You would control all the styles of your website with an external css file
   - For Example:
   - style.css
-  - You would reference the file like: <link rel="stylesheet" href="sytle.css> in this example
+  - You would reference the file like: link rel="stylesheet" href="sytle.css> in this example
 
 I am a perfectionist and I am having a hard time organizing my thoughts and ideas during this project. 
 
