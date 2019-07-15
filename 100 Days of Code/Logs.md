@@ -38,6 +38,66 @@ This is part of Alexander Kallways's [100daysofCode](https://github.com/Kallaway
 -->
 
 ---
+#2. Beginner Full Stack Web Development
+## July 14, 2019 - Sunday
+
+**Today's Project**
+- Complete Chapter 1: Getting Started with HTML
+- Complete Chapter 2: Introduction to CSS
+
+**Progress**
+- Completed Chapter 1 on the Udemy Course
+- Watched two videos in Chapter 2: Introduction to CSS.
+- Re-installing OS on laptop that I will be using
+
+**Links to Work**
+ No Work today as I had family requirements
+
+**Thoughts**
+I am trying to balance the coding journey with personal requirements. I watched videos to gain an understanding on how to effectively use HTML to create outstanding static webpages. I learned how to implant images,links,unordered and ordered lists into html files. Additionally, I learned how to create tables in HTML code. The author stated that you would have CSS or another coding language to assist with tables and formatting. 
+
+
+Three ways to use CSS in HTML 
+
+- Inline
+  - You would add the css language in the web file in the body of the webpage.
+  - For Example:
+    - <body>
+        - <h1 style="Color: Red;"> This is an example </h1>
+    - </body>
+- Internal
+  - You would add the css lanage in the header tag.
+  - For Example:
+    - <head>
+        - <h1 style="Color: Red;">
+    - </head>
+- External
+  - Best Way
+  - You would control all the styles of your website with an external css file
+  - For Example:
+  - style.css
+  - You would reference the file like: <link rel="stylesheet" href="sytle.css> in this example
+
+I am a perfectionist and I am having a hard time organizing my thoughts and ideas during this project. 
+
+I am torn between two laptops that I have to perform this task and use as my daily driver. 
+
+# First laptop: 
+The one I am running is currently running Manjaro Linux (KDE) and I love the OS and the responsiveness to my tasks. I am currently having trouble getting my third monitor to be recognized. Specs: Dell Latitude E6530 i5 8GB memory, 640GB Hard Drive (NO SSD).
+
+# Second Laptop:
+Specs: HP Probook 450 G5, i5, 16GB 500GB SSD
+I use this laptop for work and I want to seperate personal/work but I do not want to have to carry two laptops around to perform my tasks when I am at work and I have some "free time."
+
+I am going to keep contemplating on this! In the meantime, I am going to refresh the HP Probook with a fresh copy of Windows 10: 1903 as I need to clean up the laptop.
+
+I am going to need to learn Git some more as I am required to keep typing my password into the terminal prompt/visual studio code when pushing my commits to GitHub. I may need to research git --config to resolve this issue. 
+
+I may create a poll to see if people are currently using Windows effectively to web develop and do not see memory issues as Windows 10 is notorious for consuming Memory. 
+
+Possible Project: Create a Blog on my GitHub Page website. Use the existing knowledge to create a profesional looking website. 
+  
+
 
 #1. Beginner Full Stack Web Development
 ## July 13, 2019 - Saturday
