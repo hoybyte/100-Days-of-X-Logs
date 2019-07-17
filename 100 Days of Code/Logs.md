@@ -38,6 +38,29 @@ This is part of Alexander Kallways's [100daysofCode](https://github.com/Kallaway
 -->
 
 ---
+#4. Create About Me HTML Page
+## July 16, 2019 - Tuesday
+
+**Today's Project**
+- Create the About Me subpage
+- Type up a small biography
+
+**Progress**
+- Created About Me page
+- Did not use CSS yet
+
+**Links to Work**
+- About Me webpage [About Me Webpage](https://github.com/hoybyte/100-Days-of-X-Logs/blob/master/100%20Days%20of%20Code/Projects/Blog&Website/about.html)
+
+**Thoughts**
+I coded the about me page. I implemented my knowledge in creating the page. I did not add any css to the page yet. I have referenced the about.html page in my index.html.
+
+I learned that web development is more than coding. It is about presentation on the pages and the quality of the writing. I have learned that I would not be a good web designer as I have a hard time articulating my thoughts in clear and concise ways. 
+
+Additionally, I have always been a man of action. I do not want to be in management. I want to be able to use my knowledge to fix issues instead of managing people.  
+
+Much more to do!
+
 #3. Beginner Full Stack Web Development
 ## July 15, 2019 - Monday
 
