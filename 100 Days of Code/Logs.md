@@ -38,6 +38,29 @@ This is part of Alexander Kallways's [100daysofCode](https://github.com/Kallaway
 -->
 
 ---
+#5. Internal Port Scanner using Powershell
+## July 17, 2019 - Wednesday
+
+**Today's Project**
+- Create a powershell script that will accept incoming input to check for open ports on a computer
+
+**Progress**
+- Used Powershell terminal to review cmdlets that will perform the required task
+- Wrote the Process Block on my Get-OpenPorts.ps1 script
+
+**Links to Work**
+- Port Scanner Script [Port Scanner Script](https://github.com/hoybyte/100-Days-of-X-Logs/blob/master/100%20Days%20of%20Code/Projects/Port%20Scanner/Get-OpenPorts.ps1)
+  
+**Thoughts**
+Wow, it is amazing how much you forget when you stopped coding in a certain language. I forgot the syntax of the Foreach and if statements. 
+
+After starting for 10 minutes, I remembered how to code the project. I am in the process of debugging the code, as I am not getting the desired output. 
+
+Additional Notes:
+
+I have decided to finish the 100 Days of code with Powershell and Python as I having a hard time being focused in Web Development. I do not like writing out paragraphs for the webpages. I would rather just find a problem and figure out a solution using Powershell or Python. I still have a lot to learn on how to use Python; however, I feel that if I challenge myself, I will pick up the language. 
+
+
 #4. Create About Me HTML Page
 ## July 16, 2019 - Tuesday
 
