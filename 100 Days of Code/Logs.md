@@ -38,6 +38,23 @@ This is part of Alexander Kallways's [100daysofCode](https://github.com/Kallaway
 -->
 
 ---
+#6. Internal Port Scanner using Powershell
+
+**Today's Project**
+-Finish Powershell script to find if ports are open on a given computer
+
+**Progress**
+-Debugged the program and fixed syntax issues
+
+**Link to Work**
+- Port Scanner Script [Port Scanner Script](https://github.com/hoybyte/100-Days-of-X-Logs/blob/master/100%20Days%20of%20Code/Projects/Port%20Scanner/Get-OpenPorts.ps1)
+
+**Thoughts**
+
+Coding is fun. I was excited to get the code to function without throwing errors. After reviewing the code, I found I had a logic error in an If Statement. I will fix tomorrow.
+
+I want to implement the same task but using python.
+
 #5. Internal Port Scanner using Powershell
 ## July 17, 2019 - Wednesday
 

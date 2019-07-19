@@ -27,24 +27,24 @@ function Get-OpenPorts {
 
     ForEach($computer in $ComputerName){
         $Object = New-Object PSCustomObject
-        $Object = Add-Member -MemberType NoteProperty -Name "Computer" -Value $ComputerName
-        ForEach($port in $Ports){
-            $Result = (Test-NetConnection -ComputerName $ComputerName -Port $Ports).TCPTestSucceeded
+        $Object | Add-Member -MemberType NoteProperty -Name "Computer" -Value $ComputerName
+        ForEach ($port in $Ports){
+            $Result = (Test-NetConnection -ComputerName $ComputerName -Port $Port).TCPTestSucceeded
 
-            If(!Result){
+            If($Result -eq "False"){
                 $Status = "Failure"
             } # if
             Else {
                 $Status = "Success"
             } #elseif
-            $Object | Add-Member -MemberType NoteProperty "$("Port " + "$Ports")" -Value "$(status)"
+            $Object | Add-Member NoteProperty "$("Port " + "$Port")" -Value "$($status)"
         } #ForEach Port 
 
-        $Result += $Object 
+        $Results += $Object 
 
     } #ForEach Computer
 
-    If($Result){
+    If($Results){
         $Results
     }
 } #Function
