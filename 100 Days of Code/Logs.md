@@ -49,13 +49,17 @@ This is part of Alexander Kallways's [100daysofCode](https://github.com/Kallaway
 - Character: Death by Poison Game
 
 **Progress**
-
+- Created While Loop to decrease health
+- Created some dialog
+- Learned While Loops and Print commands
 
 **Link to Work**
-
+- DeathbyPoison Program [DeathbyProgram]
 
 **Thoughts**
+I am enjoying creating the program. I am getting overwhelmed with the amount of tasks that I want to perform to the program. I have to keep remind myself that I need to complete one task at a time. 
 
+Learning shortcuts to Visual Studio Code to increase productivity. Will be working on DeathbyPosion program for a couple days to learn the syntax and functions. 
 
 #8 Python Port Scanner and Are You old enough to Drive Program
 ## July 20, 2019 - Saturday
