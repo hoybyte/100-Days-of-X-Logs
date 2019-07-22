@@ -27,19 +27,73 @@ This is part of Alexander Kallways's [100daysofCode](https://github.com/Kallaway
 ## 1.
 ### Day X: Date - Day
 
-** Project **
+**Project**
 
-** Progress **
 
-** Thoughts **
+**Progress**
 
-** Link to Work **
+
+**Link to Work**
+
+
+**Thoughts**
+
+
 
 -->
 
 ---
-#6. Internal Port Scanner using Powershell
+#9. Death by Poison Program Game
+## July 21, 2019 - Sunday
+**Project**
+- Character: Death by Poison Game
 
+**Progress**
+
+
+**Link to Work**
+
+
+**Thoughts**
+
+
+#8 Python Port Scanner and Are You old enough to Drive Program
+## July 20, 2019 - Saturday
+**Project**
+- Python Port Scanner
+- Are you old enough to drive Program
+
+**Progress**
+- Finished Python Port Scanner
+- Created a basic Are you old enough drive Program
+
+
+**Link to Work**
+
+
+**Thoughts**
+I really enjoyed learning the syntax for Python3. I see the versatility when creating the language. I am still having issues with the print statement using two variables. I will be implementing this in my next program: Death by Poison program. 
+
+I installed Jupyter Notebooks and Anaconda Python. I am learning the shortcuts to increase work productivity; however, I still like to use Visual Studio Code. 
+
+
+
+#7. Python Port Scanner
+## July 19, 2019 - Friday
+**Project**
+- Create Port Scanner using Python
+
+**Progress**
+- Found a Python Port Scanner on the internet using Python 2. Converted some of the info to Python 3 syntax.
+
+**Link to Work**
+
+
+**Thoughts**
+I wanted to create a port scanner using two languages. Using Python and Powershell. The port scanner using Powershell was easier for me. This is the case as I am more fluent in powershell syntax and setup being a Windows Sysadmin. However, I do like the python layout as I can run it on any machine running python. 
+
+#6. Internal Port Scanner using Powershell
+## July 18, 2019 - Thursday
 **Today's Project**
 -Finish Powershell script to find if ports are open on a given computer
 
