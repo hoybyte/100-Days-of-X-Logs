@@ -54,7 +54,7 @@ This is part of Alexander Kallways's [100daysofCode](https://github.com/Kallaway
 - Learned While Loops and Print commands
 
 **Link to Work**
-- DeathbyPoison Program [DeathbyProgram]
+- DeathbyPoison Program [DeathbyProgram](https://github.com/hoybyte/100-Days-of-X-Logs/blob/master/100%20Days%20of%20Code/Projects/PythonPrograms/Deathbypoison.py)
 
 **Thoughts**
 I am enjoying creating the program. I am getting overwhelmed with the amount of tasks that I want to perform to the program. I have to keep remind myself that I need to complete one task at a time. 
@@ -73,7 +73,8 @@ Learning shortcuts to Visual Studio Code to increase productivity. Will be worki
 
 
 **Link to Work**
-
+- Python Port Scanner [Python Port Scanner](https://github.com/hoybyte/100-Days-of-X-Logs/blob/master/100%20Days%20of%20Code/Projects/Port%20Scanner/PortScanner.py)
+- Are you old enough to Drive [Are you Old Enough to Drive](https://github.com/hoybyte/100-Days-of-X-Logs/blob/master/100%20Days%20of%20Code/Projects/PythonPrograms/OldEnoughToDrive.py)
 
 **Thoughts**
 I really enjoyed learning the syntax for Python3. I see the versatility when creating the language. I am still having issues with the print statement using two variables. I will be implementing this in my next program: Death by Poison program. 
@@ -91,7 +92,7 @@ I installed Jupyter Notebooks and Anaconda Python. I am learning the shortcuts t
 - Found a Python Port Scanner on the internet using Python 2. Converted some of the info to Python 3 syntax.
 
 **Link to Work**
-
+- Python Port Scanner [Python Port Scanner](https://github.com/hoybyte/100-Days-of-X-Logs/blob/master/100%20Days%20of%20Code/Projects/Port%20Scanner/PortScanner.py)
 
 **Thoughts**
 I wanted to create a port scanner using two languages. Using Python and Powershell. The port scanner using Powershell was easier for me. This is the case as I am more fluent in powershell syntax and setup being a Windows Sysadmin. However, I do like the python layout as I can run it on any machine running python. 
